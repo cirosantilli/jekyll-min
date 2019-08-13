@@ -1,4 +1,4 @@
-Minimal Jekyll hello world:
+Minimal Jekyll hello world: http://cirosantilli.com/jekyll-min/
 
 ```
 bundle install
