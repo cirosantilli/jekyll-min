@@ -1,3 +1,9 @@
 = Asciidoctor test
 
 hello adoc
+
+xref:asdfqwer[]
+
+== my h2 1
+
+== my h2 2
